@@ -1,4 +1,4 @@
-# Kali-Linux-Source-Fix
+# Kalifix
 shell script to fix first installs of Kali
 NEW UPDATE: AUTO.sh automates the process below
 
